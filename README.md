@@ -13,3 +13,4 @@ Aquí se encuentran los enlaces y recursos complementarios para las clases.
 * [video mostrado en la clase] (https://notebooklm.link.google/vEB8EEZu8xCQ)
 * [video del profesor sobre la matriz de rotación] (https://youtu.be/WMChkjLs8vQ?si=LAIdmxqWq3Lm79wx)
 * [podcast sobre el tema] (https://drive.google.com/file/d/1gaUemxlJU2m8mJYEeIHbKdTfl35LK_TN/view?usp=sharing)
+* [propiedades importantes] (https://drive.google.com/file/d/1z7AASdcBaQIoSNx3jF3pKY72xN8FEcOO/view)
