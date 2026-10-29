@@ -14,3 +14,8 @@ Aquí se encuentran los enlaces y recursos complementarios para las clases.
 * [video del profesor sobre la matriz de rotación] (https://youtu.be/WMChkjLs8vQ?si=LAIdmxqWq3Lm79wx)
 * [podcast sobre el tema] (https://drive.google.com/file/d/1gaUemxlJU2m8mJYEeIHbKdTfl35LK_TN/view?usp=sharing)
 * [propiedades importantes] (https://drive.google.com/file/d/1z7AASdcBaQIoSNx3jF3pKY72xN8FEcOO/view)
+## 🔗 Enlaces Importantes semana 2
+*[mecanismo 4 barras](https://youtu.be/rx8AL_D6b1M?si=T3yqJjLRP1e3hey8)
+*[biela-manivela](https://youtu.be/pKro0PrV5DI?si=fH0UtoEvY_M2ohZz)
+*[colisa](https://youtu.be/-ABKBERP1GM?si=y568oG1wmiDKcL3T)
+*[newton raphson](https://youtu.be/n53t8CtaLrM?si=M0TuZx6dHCnTibvo)
