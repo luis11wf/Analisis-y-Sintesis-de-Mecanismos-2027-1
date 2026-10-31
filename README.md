@@ -19,3 +19,4 @@ Aquí se encuentran los enlaces y recursos complementarios para las clases.
 *[biela-manivela](https://youtu.be/pKro0PrV5DI?si=fH0UtoEvY_M2ohZz)
 *[colisa](https://youtu.be/-ABKBERP1GM?si=y568oG1wmiDKcL3T)
 *[newton raphson](https://youtu.be/n53t8CtaLrM?si=M0TuZx6dHCnTibvo)
+*[WM descarga] (https://youtu.be/-5I9ZlZXPfA?si=-mZV61vabt90B9CA)
